@@ -223,4 +223,22 @@ Physics developed the analytical foundation that I now apply to software and dat
                       ▼
                    DECISION
 
+## `> contribution_activity`
+
+<p align="center">
+  <img src="./assets/github-contribution-snake.svg" alt="GitHub Contribution Snake" />
+</p>
+
+<p align="center">
+  <img src="https://github-readme-activity-graph.vercel.app/graph?username=Ghosty977&hide_border=true&area=true" alt="GitHub Activity Graph" />
+</p>
+
+<p align="center">
+  <img src="https://github-readme-stats.vercel.app/api?username=Ghosty977&show_icons=true&hide_border=true&count_private=true&include_all_commits=true" height="170" alt="GitHub Statistics" />
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Ghosty977&layout=compact&hide_border=true&langs_count=8" height="170" alt="Most Used Languages" />
+</p>
+
+<p align="center">
+  <i>Consistent contributions. Continuous learning. Continuous improvement.</i>
+</p>
 
