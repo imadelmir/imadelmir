@@ -223,32 +223,4 @@ Physics developed the analytical foundation that I now apply to software and dat
                       ▼
                    DECISION
 
-role:
-  - ICT Student
-  - Aspiring Software Developer
-  - Business Intelligence & Data
 
-learning:
-  - Data Engineering
-  - Advanced SQL
-  - Full-Stack Architecture
-  - Machine Learning
-  - Applied AI
-
-building:
-  - Data-driven applications
-  - Full-stack products
-  - Analytics projects
-  - AI-assisted software
-
-exploring:
-  - Cloud technologies
-  - Software architecture
-  - Data platforms
-  - AI engineering
-
-principles:
-  - Clean architecture
-  - Reproducibility
-  - Measurable results
-  - Continuous learning
