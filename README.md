@@ -1,27 +1,6 @@
-<div align="center">
+# `> imad_el_mir`
 
-<a href="https://github.com/imadelmir">
-  <img src="https://capsule-render.vercel.app/api?type=waving&color=0:111827,45:4c1d95,75:7c3aed,100:2563eb&height=190&section=header&text=IMAD%20EL%20MIR&fontSize=48&fontColor=ffffff&fontAlignY=38&animation=fadeIn&desc=ICT%20Student%20%7C%20Software%20Development%20%7C%20Business%20Intelligence&descAlignY=62&descSize=17&descColor=c4b5fd" width="100%" alt="Imad El Mir GitHub Header"/>
-</a>
-
-<a href="https://git.io/typing-svg">
-  <img src="https://readme-typing-svg.demolab.com?font=JetBrains+Mono&weight=600&size=21&duration=2800&pause=900&color=A78BFA&center=true&vCenter=true&width=800&lines=ICT+Student;Aspiring+Software+Developer;Business+Intelligence+%7C+Data+%7C+AI;Building+data-driven+digital+solutions;From+Physics+to+Software+Development" alt="Typing Introduction"/>
-</a>
-
-<br/>
-
-[![GitHub](https://img.shields.io/badge/GitHub-111827?style=for-the-badge&logo=github&logoColor=white)](https://github.com/imadelmir)
-[![Portfolio](https://img.shields.io/badge/Portfolio-7C3AED?style=for-the-badge&logo=vercel&logoColor=white)](https://portfolio-imad-el-mir.vercel.app/it)
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-2563EB?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/el-mir-imad-9742b136b/)
-[![Email](https://img.shields.io/badge/Email-4C1D95?style=for-the-badge&logo=gmail&logoColor=white)](mailto:imadelmir900@gmail.com)
-
-<br/>
-
-![Profile Views](https://komarev.com/ghpvc/?username=imadelmir&style=for-the-badge&color=7c3aed&label=PROFILE+VIEWS)
-![Followers](https://img.shields.io/github/followers/imadelmir?style=for-the-badge&color=7c3aed&label=FOLLOWERS)
-![Stars](https://img.shields.io/github/stars/imadelmir?style=for-the-badge&color=4c1d95&label=STARS)
-
-</div>
+**ICT Student · Business Intelligence · Software Development · Data & AI**
 
 ---
 
@@ -43,11 +22,11 @@ My current goal is to grow into a professional **Software Developer / Business I
 
 ### Open to
 
-- Software Development opportunities
-- Business Intelligence / Data opportunities
-- Internship and junior positions
-- Collaborative software projects
-- Data-driven and AI-oriented projects
+* Software Development opportunities
+* Business Intelligence / Data opportunities
+* Internship and junior positions
+* Collaborative software projects
+* Data-driven and AI-oriented projects
 
 ---
 
@@ -55,41 +34,58 @@ My current goal is to grow into a professional **Software Developer / Business I
 
 ### Languages
 
-<p align="center">
-  <img src="https://skillicons.dev/icons?i=python,java,js,html,css,sql" alt="Languages"/>
-</p>
+`Python` · `Java` · `JavaScript` · `SQL` · `HTML` · `CSS`
 
 ### Frontend & Full Stack
 
-<p align="center">
-  <img src="https://skillicons.dev/icons?i=react,nextjs,nodejs,tailwind,axios" alt="Frontend and Full Stack"/>
-</p>
+`React` · `Next.js` · `Node.js` · `Streamlit` · `Tailwind CSS`
 
 ### Backend, Data & Databases
 
-<p align="center">
-  <img src="https://skillicons.dev/icons?i=spring,postgres,mysql,mongodb,docker" alt="Backend Data and Databases"/>
-</p>
+`Spring Boot` · `REST APIs` · `PostgreSQL` · `MySQL` · `MongoDB` · `Oracle` · `DBeaver`
+
+### Data, AI & Machine Learning
+
+`Pandas` · `NumPy` · `scikit-learn` · `Joblib` · `Machine Learning` · `LLM APIs` · `Prompt Engineering`
 
 ### Tools & Platforms
 
-<p align="center">
-  <img src="https://skillicons.dev/icons?i=git,github,vscode,idea,linux,aws" alt="Tools and Platforms"/>
-</p>
+`Git` · `GitHub` · `Docker` · `VS Code` · `IntelliJ IDEA` · `AWS` · `Linux`
 
 ---
 
 ## `> core_competencies`
 
-| Area | Focus |
-|---|---|
+| Area                      | Focus                                                                 |
+| ------------------------- | --------------------------------------------------------------------- |
 | **Business Intelligence** | Data analysis, relational modelling, SQL and data-driven applications |
-| **Software Development** | Python, Java, JavaScript, REST APIs and application architecture |
-| **Full Stack** | React, Next.js, Node.js and responsive interfaces |
-| **Data & Databases** | SQL, NoSQL, PostgreSQL, MySQL and MongoDB |
-| **AI / ML** | Applied machine learning, model evaluation and AI-assisted workflows |
+| **Software Development**  | Python, Java, JavaScript, REST APIs and application architecture      |
+| **Full Stack**            | React, Next.js, Node.js and responsive interfaces                     |
+| **Data & Databases**      | SQL, NoSQL, PostgreSQL, MySQL and MongoDB                             |
+| **AI / ML**               | Applied machine learning, model evaluation and AI-assisted workflows  |
 | **Engineering Practices** | Git/GitHub, Docker, testing, documentation and structured development |
-| **Problem Solving** | Analytical reasoning developed through Physics and technical projects |
+| **Problem Solving**       | Analytical reasoning developed through Physics and technical projects |
+
+---
+
+## `> contribution_activity`
+
+<p align="center">
+  <img src="./assets/github-contribution-snake.svg" alt="GitHub Contribution Snake" />
+</p>
+
+<p align="center">
+  <img src="https://github-readme-activity-graph.vercel.app/graph?username=Ghosty977&custom_title=Contribution%20Activity&hide_border=true&area=true&radius=8" alt="GitHub Contribution Activity Graph" />
+</p>
+
+<p align="center">
+  <img src="https://github-readme-stats.vercel.app/api?username=Ghosty977&show_icons=true&include_all_commits=true&count_private=true&hide_border=true" height="170" alt="GitHub Statistics" />
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Ghosty977&layout=compact&langs_count=8&hide_border=true" height="170" alt="Most Used Languages" />
+</p>
+
+<p align="center">
+  <b>Code consistently · Learn continuously · Build intentionally</b>
+</p>
 
 ---
 
@@ -101,17 +97,12 @@ A Python-based chess project focused on algorithmic decision making, game-state 
 
 **Stack:** `Python` · `Algorithms` · `AI` · `Game Logic`
 
-<details>
-<summary><b>Engineering focus</b></summary>
-
-- Search and decision-making logic
-- Board-state representation
-- Move evaluation
-- Game logic architecture
-- Separation between game logic and interface
-- Performance-oriented algorithm design
-
-</details>
+* Search and decision-making logic
+* Board-state representation
+* Move evaluation
+* Game logic architecture
+* Separation between game logic and interface
+* Performance-oriented algorithm design
 
 ---
 
@@ -121,17 +112,12 @@ A data-driven football analytics project designed to transform football data int
 
 **Stack:** `Python` · `Data Analysis` · `SQL` · `Analytics` · `Visualization`
 
-<details>
-<summary><b>Engineering focus</b></summary>
-
-- Data ingestion and cleaning
-- Structured analytical datasets
-- Statistical analysis
-- KPI-oriented visualizations
-- Reproducible data workflows
-- Separation between data, analysis and presentation
-
-</details>
+* Data ingestion and cleaning
+* Structured analytical datasets
+* Statistical analysis
+* KPI-oriented visualizations
+* Reproducible data workflows
+* Separation between data, analysis and presentation
 
 ---
 
@@ -141,19 +127,14 @@ A full-stack web application inspired by modern digital game libraries, designed
 
 **Stack:** `React` · `Next.js` · `Java` · `Spring Boot` · `SQL` · `REST API` · `Docker` · `Git`
 
-<details>
-<summary><b>Engineering focus</b></summary>
-
-- Full-stack architecture
-- REST API integration
-- Database-backed application
-- Game catalogue and search workflows
-- User library
-- Wishlist functionality
-- Statistics and data visualization
-- Collaborative Git/GitHub workflow
-
-</details>
+* Full-stack architecture
+* REST API integration
+* Database-backed application
+* Game catalogue and search workflows
+* User library
+* Wishlist functionality
+* Statistics and data visualization
+* Collaborative Git/GitHub workflow
 
 ---
 
@@ -165,19 +146,14 @@ The project includes honey-production prediction and structured summaries genera
 
 **Stack:** `Python` · `Streamlit` · `MySQL` · `scikit-learn` · `LLM API` · `Docker`
 
-<details>
-<summary><b>Engineering focus</b></summary>
-
-- MySQL persistent storage
-- Machine learning regression pipeline
-- RMSE, MAE and R² evaluation
-- Model persistence with Joblib
-- LLM integration through API
-- Prompt engineering
-- Dockerized application environment
-- AI ethics and limitations documentation
-
-</details>
+* MySQL persistent storage
+* Machine learning regression pipeline
+* RMSE, MAE and R² evaluation
+* Model persistence with Joblib
+* LLM integration through API
+* Prompt engineering
+* Dockerized application environment
+* AI ethics and limitations documentation
 
 ---
 
@@ -215,30 +191,23 @@ Physics developed the analytical foundation that I now apply to software and dat
                 BACKEND / API
                       │
                       ▼
-                INTELLIGENCE
+                 INTELLIGENCE
                       │
                       ▼
                 USER EXPERIENCE
                       │
                       ▼
-                   DECISION
+                  DECISION
+                      │
+                      ▼
+                   IMPACT
+```
 
-## `> contribution_activity`
+> I build systems where data becomes intelligence,
+> intelligence becomes functionality, and functionality becomes measurable impact.
 
-<p align="center">
-  <img src="./assets/github-contribution-snake.svg" alt="GitHub Contribution Snake" />
-</p>
-
-<p align="center">
-  <img src="https://github-readme-activity-graph.vercel.app/graph?username=Ghosty977&hide_border=true&area=true" alt="GitHub Activity Graph" />
-</p>
-
-<p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=Ghosty977&show_icons=true&hide_border=true&count_private=true&include_all_commits=true" height="170" alt="GitHub Statistics" />
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Ghosty977&layout=compact&hide_border=true&langs_count=8" height="170" alt="Most Used Languages" />
-</p>
+---
 
 <p align="center">
-  <i>Consistent contributions. Continuous learning. Continuous improvement.</i>
+  <i>Building. Learning. Engineering.</i>
 </p>
-
