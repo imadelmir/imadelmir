@@ -12,7 +12,7 @@
 
 [![GitHub](https://img.shields.io/badge/GitHub-111827?style=for-the-badge&logo=github&logoColor=white)](https://github.com/imadelmir)
 [![Portfolio](https://img.shields.io/badge/Portfolio-7C3AED?style=for-the-badge&logo=vercel&logoColor=white)](https://portfolio-imad-el-mir.vercel.app/it)
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-2563EB?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/el-mir-imad-9742b136b/)
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-2563EB?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/imad-el-mir-9742b136b/)
 [![Email](https://img.shields.io/badge/Email-4C1D95?style=for-the-badge&logo=gmail&logoColor=white)](mailto:imadelmir900@gmail.com)
 
 <br/>
@@ -95,41 +95,48 @@ My current goal is to grow into a professional **Software Developer / Business I
 
 ## `> featured_projects`
 
-### ♟️ Chess AI — Game Intelligence
+### 📊 BI Pipeline — Data Engineering & Business Intelligence
 
-A Python-based chess project focused on algorithmic decision making, game-state evaluation and AI-driven move selection.
+A million rows of raw sales go in as a file and come out as a dashboard with five indicators — and not one of them disappears along the way without being counted.
 
-**Stack:** `Python` · `Algorithms` · `AI` · `Game Logic`
+**Stack:** `Python` · `PostgreSQL` · `dbt` · `Prefect` · `Docker` · `Metabase`
+
+[![Repository](https://img.shields.io/badge/Repository-111827?style=flat-square&logo=github&logoColor=white)](https://github.com/imadelmir/bi-pipeline)
+[![Case study](https://img.shields.io/badge/Case_study-7C3AED?style=flat-square&logo=vercel&logoColor=white)](https://portfolio-imad-el-mir.vercel.app/en/projects/bi-pipeline)
 
 <details>
 <summary><b>Engineering focus</b></summary>
 
-- Search and decision-making logic
-- Board-state representation
-- Move evaluation
-- Game logic architecture
-- Separation between game logic and interface
-- Performance-oriented algorithm design
+- ELT pipeline over the Online Retail II dataset
+- From a spreadsheet to a tested star schema
+- Transformations written in SQL and versioned with dbt
+- Orchestration and scheduling with Prefect
+- Data-quality tests that fail loudly and report how many rows went missing
+- Five business indicators surfaced in Metabase
+- Reproducible environment with Docker
 
 </details>
 
 ---
 
-### ⚽ Football Analytics — Data & Performance Intelligence
+### ⚽ Football Analytics — Expected Goals & Model Comparison
 
-A data-driven football analytics project designed to transform football data into measurable insights, statistics and decision-support visualizations.
+How much is it worth to see where the defenders are? Two expected-goals models trained on the same matches answer with a number.
 
-**Stack:** `Python` · `Data Analysis` · `SQL` · `Analytics` · `Visualization`
+**Stack:** `Python` · `pandas` · `NumPy` · `scikit-learn` · `Streamlit` · `Plotly`
+
+[![Repository](https://img.shields.io/badge/Repository-111827?style=flat-square&logo=github&logoColor=white)](https://github.com/imadelmir/football-analytics)
+[![Case study](https://img.shields.io/badge/Case_study-7C3AED?style=flat-square&logo=vercel&logoColor=white)](https://portfolio-imad-el-mir.vercel.app/en/projects/football-analytics)
 
 <details>
 <summary><b>Engineering focus</b></summary>
 
-- Data ingestion and cleaning
-- Structured analytical datasets
-- Statistical analysis
-- KPI-oriented visualizations
-- Reproducible data workflows
-- Separation between data, analysis and presentation
+- Two xG models trained on identical matches, so the comparison is fair
+- Feature engineering on shot context, including defender positioning
+- Model evaluation and honest reporting of what the added data is worth
+- Data pipeline from raw events to an analytical dataset
+- Interactive dashboard with shot maps and per-team breakdowns
+- Documented milestones, versioned in the repository
 
 </details>
 
@@ -137,45 +144,52 @@ A data-driven football analytics project designed to transform football data int
 
 ### 🎮 Arcadium — Full-Stack Game Library
 
-A full-stack web application inspired by modern digital game libraries, designed around a large game dataset and focused on cataloguing, search, user libraries and analytics.
+A platform for keeping your game library in order, built on a Steam catalogue of 122,479 titles.
 
-**Stack:** `React` · `Next.js` · `Java` · `Spring Boot` · `SQL` · `REST API` · `Docker` · `Git`
+**Stack:** `Next.js` · `React` · `Java` · `Spring Boot` · `PostgreSQL` · `Python` · `Docker`
+
+[![Repository](https://img.shields.io/badge/Repository-111827?style=flat-square&logo=github&logoColor=white)](https://github.com/imadelmir/arcadium)
+[![Case study](https://img.shields.io/badge/Case_study-7C3AED?style=flat-square&logo=vercel&logoColor=white)](https://portfolio-imad-el-mir.vercel.app/en/projects/arcadium)
 
 <details>
 <summary><b>Engineering focus</b></summary>
 
-- Full-stack architecture
-- REST API integration
-- Database-backed application
-- Game catalogue and search workflows
-- User library
-- Wishlist functionality
-- Statistics and data visualization
-- Collaborative Git/GitHub workflow
+- Five independent layers, each with a single responsibility
+- Python ETL pipeline loading a raw Steam dataset into PostgreSQL
+- Data-quality work: merged header columns, missing AppIDs, 66 duplicated games
+- Spring Boot backend: controller, service, repository, entity
+- REST API under `/api`, secured with JWT and self-documenting
+- Catalogue with search, filters and sorting; library split by state
+- Idempotent loading, demonstrated by tests rather than declared
 
 </details>
 
 ---
 
-### 🐝 BeeWatch AI — Data, ML & Applied AI
+### 🐝 BeeWatch AI — Data, ML & Applied AI · *in progress*
 
-A project combining a persistent MySQL data layer, machine learning and an AI assistant inside a Streamlit application.
+Apiary monitoring for hobbyist beekeepers: yards, hives, inspections and harvests, with an expected-yield estimate and an assistant that summarises field notes.
 
-The project includes honey-production prediction and structured summaries generated from inspection notes.
+**Stack:** `Python` · `Streamlit` · `MySQL` · `pandas` · `scikit-learn` · `Docker`
 
-**Stack:** `Python` · `Streamlit` · `MySQL` · `scikit-learn` · `LLM API` · `Docker`
+[![Repository](https://img.shields.io/badge/Repository-111827?style=flat-square&logo=github&logoColor=white)](https://github.com/imadelmir/beewatch-ai)
 
 <details>
-<summary><b>Engineering focus</b></summary>
+<summary><b>Where it stands</b></summary>
 
-- MySQL persistent storage
-- Machine learning regression pipeline
-- RMSE, MAE and R² evaluation
-- Model persistence with Joblib
-- LLM integration through API
-- Prompt engineering
-- Dockerized application environment
-- AI ethics and limitations documentation
+**Done**
+
+- Project foundations and reproducible environment
+- Data collection and cleaning
+- MySQL schema for yards, hives, inspections and harvests
+
+**Being built**
+
+- Yield prediction model
+- Streamlit interface
+- Assistant that summarises inspection notes
+
+The full case study goes up when there is something real to show.
 
 </details>
 
@@ -193,9 +207,19 @@ Current technical focus:
 
 ---
 
+### 🖥️ Università degli Studi di Torino
+
+**BSc in Computer Science · in progress**
+
+Enrolled from the 2025/2026 academic year, alongside the ITS programme:
+
+`Algorithms` · `Data Structures` · `Theoretical Foundations` · `Computer Science Fundamentals`
+
+---
+
 ### 🔬 Université Sidi Mohammed Ben Abdellah — Fès
 
-**Physics**
+**Physics · 2021 – 2025 · DEUG diploma (first two university years) obtained**
 
 Physics developed the analytical foundation that I now apply to software and data:
 
@@ -222,3 +246,16 @@ Physics developed the analytical foundation that I now apply to software and dat
                       │
                       ▼
                    DECISION
+```
+
+---
+
+<div align="center">
+
+**Understand the data. Design the system. Build the solution. Measure the result.**
+
+<a href="https://portfolio-imad-el-mir.vercel.app/en">
+  <img src="https://capsule-render.vercel.app/api?type=waving&color=0:2563eb,25:7c3aed,55:4c1d95,100:111827&height=120&section=footer" width="100%" alt=""/>
+</a>
+
+</div>
