@@ -18,8 +18,6 @@
 <br/>
 
 ![Profile Views](https://komarev.com/ghpvc/?username=imadelmir&style=for-the-badge&color=7c3aed&label=PROFILE+VIEWS)
-![Followers](https://img.shields.io/github/followers/imadelmir?style=for-the-badge&color=7c3aed&label=FOLLOWERS)
-![Stars](https://img.shields.io/github/stars/imadelmir?style=for-the-badge&color=4c1d95&label=STARS)
 
 </div>
 
@@ -56,26 +54,32 @@ My current goal is to grow into a professional **Software Developer / Business I
 ### Languages
 
 <p align="center">
-  <img src="https://skillicons.dev/icons?i=python,java,js,html,css,sql" alt="Languages"/>
+  <img src="https://skillicons.dev/icons?i=python,java,js,html,css" alt="Languages"/>
 </p>
 
 ### Frontend & Full Stack
 
 <p align="center">
-  <img src="https://skillicons.dev/icons?i=react,nextjs,nodejs,tailwind,axios" alt="Frontend and Full Stack"/>
+  <img src="https://skillicons.dev/icons?i=react,nextjs,nodejs,tailwind" alt="Frontend and Full Stack"/>
 </p>
 
 ### Backend, Data & Databases
 
 <p align="center">
-  <img src="https://skillicons.dev/icons?i=spring,postgres,mysql,mongodb,docker" alt="Backend Data and Databases"/>
+  <img src="https://skillicons.dev/icons?i=spring,postgres,mysql,docker" alt="Backend Data and Databases"/>
 </p>
 
 ### Tools & Platforms
 
 <p align="center">
-  <img src="https://skillicons.dev/icons?i=git,github,vscode,idea,linux,aws" alt="Tools and Platforms"/>
+  <img src="https://skillicons.dev/icons?i=git,github,vscode,idea,linux" alt="Tools and Platforms"/>
 </p>
+
+### Data & Business Intelligence
+
+The tools that actually appear in the projects below. Most have no icon set, so they are written out:
+
+`SQL` · `dbt` · `Prefect` · `Metabase` · `pandas` · `NumPy` · `scikit-learn` · `Streamlit` · `Plotly`
 
 ---
 
@@ -83,11 +87,11 @@ My current goal is to grow into a professional **Software Developer / Business I
 
 | Area | Focus |
 |---|---|
-| **Business Intelligence** | Data analysis, relational modelling, SQL and data-driven applications |
+| **Business Intelligence** | ELT pipelines, dimensional modelling, SQL transformations and dashboards |
 | **Software Development** | Python, Java, JavaScript, REST APIs and application architecture |
 | **Full Stack** | React, Next.js, Node.js and responsive interfaces |
-| **Data & Databases** | SQL, NoSQL, PostgreSQL, MySQL and MongoDB |
-| **AI / ML** | Applied machine learning, model evaluation and AI-assisted workflows |
+| **Data & Databases** | SQL, PostgreSQL, MySQL, star schemas and data-quality testing |
+| **AI / ML** | Applied machine learning, feature engineering and honest model comparison |
 | **Engineering Practices** | Git/GitHub, Docker, testing, documentation and structured development |
 | **Problem Solving** | Analytical reasoning developed through Physics and technical projects |
 
@@ -203,7 +207,7 @@ The full case study goes up when there is something real to show.
 
 Current technical focus:
 
-`Business Intelligence` · `Software Development` · `SQL/NoSQL` · `Python` · `Java` · `JavaScript` · `REST APIs` · `Cloud` · `Docker` · `Machine Learning`
+`Databases & Data Warehouses` · `Data Pipelines` · `Data Governance` · `SQL & Reporting` · `Python` · `Java` · `JavaScript & Node.js` · `Cloud & Containers` · `Machine Learning`
 
 ---
 
