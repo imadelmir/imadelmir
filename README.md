@@ -15,23 +15,19 @@
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-2563EB?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/imad-el-mir/)
 [![Email](https://img.shields.io/badge/Email-4C1D95?style=for-the-badge&logo=gmail&logoColor=white)](mailto:imadelmir900@gmail.com)
 
-<br/>
-
-![Profile Views](https://komarev.com/ghpvc/?username=imadelmir&style=for-the-badge&color=7c3aed&label=PROFILE+VIEWS)
-
 </div>
 
 ---
 
 ## `> about_me`
 
-I am an **ICT student** specializing in **Business Intelligence and Software Development**, with a strong interest in building software that connects **data, backend systems, analytics and modern user experiences**.
+I build the path that turns raw data into something a person can act on: ingestion and cleaning, modelling into databases and warehouses, then the pipelines, dashboards and applications on top. The four projects below are that path, walked end to end.
 
-Currently, I am studying at **ITS Academy ICT Piemonte**, where I work with databases, programming, APIs, cloud technologies, machine learning and web development.
+I study **Business Intelligence & Software Development** at **ITS Academy ICT Piemonte** and **Computer Science** at the **University of Turin**. Before that I studied **Physics**, which is where the habit of checking a number before believing it comes from.
 
-Before moving toward software development, I studied **Physics**, developing a rigorous analytical mindset based on mathematics, experimentation, modelling and structured problem solving.
+**I am looking for an internship or a first role** in Business Intelligence, Data Engineering, Analytics Engineering, Data Analysis or data-oriented software development — Turin, Milan, hybrid or remote.
 
-My current goal is to grow into a professional **Software Developer / Business Intelligence Developer**, building reliable and data-driven applications.
+*The project READMEs are written in Italian; every case study on the portfolio is available in [English](https://portfolio-imad-el-mir.vercel.app/en) and [Italian](https://portfolio-imad-el-mir.vercel.app/it).*
 
 > **Understand the data. Design the system. Build the solution. Measure the result.**
 
@@ -39,13 +35,9 @@ My current goal is to grow into a professional **Software Developer / Business I
 
 `Business Intelligence` · `Software Development` · `Data Engineering` · `Full-Stack Development` · `Applied AI/ML`
 
-### Open to
+### Roles I am applying for
 
-- Software Development opportunities
-- Business Intelligence / Data opportunities
-- Internship and junior positions
-- Collaborative software projects
-- Data-driven and AI-oriented projects
+`Business Intelligence Intern` · `Data Engineer Intern` · `Analytics Engineer Intern` · `Data Analyst Intern` · `BI Developer Intern` · `Software Developer Intern`
 
 ---
 
@@ -146,9 +138,11 @@ How much is it worth to see where the defenders are? Two expected-goals models t
 
 ---
 
-### 🎮 Arcadium — Full-Stack Game Library
+### 🎮 Arcadium — Full-Stack Game Library · *team project*
 
 A platform for keeping your game library in order, built on a Steam catalogue of 122,479 titles.
+
+**Five people, 253 commits, 79 of them mine.** The Next.js frontend is my part — fourteen of the application's sixteen pages — plus the technical documentation and one trip down into the Spring Boot backend. [What I did, commit by commit](https://github.com/imadelmir/arcadium#il-mio-contributo).
 
 **Stack:** `Next.js` · `React` · `Java` · `Spring Boot` · `PostgreSQL` · `Python` · `Docker`
 
